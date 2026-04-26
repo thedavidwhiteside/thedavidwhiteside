@@ -9,12 +9,12 @@ Cloud Engineer out of Colorado 🏔️ — I build things that scale, secure thi
 ## What I'm Into
 
 ```
-☁️  AWS & Cloud Architecture
-🐍  Python
-⚙️  DevOps
-⚡  HPC
-🔐  Security & Identity
-📜  IAC Ansible & Terrraform
+☁️ AWS & Cloud Architecture
+🐍 Python
+⚙️ DevOps
+⚡ HPC
+🔐 Security & Identity
+📜 IAC Ansible & Terrraform
 ```
 
 ---
