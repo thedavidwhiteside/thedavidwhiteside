@@ -15,7 +15,7 @@ Cloud Engineer out of Colorado 🏔️ — I build things that scale, secure thi
 ⚡ HPC
 🔐 Security & Identity
 📜 Ansible & Terrraform
-🤖 And of course AI
+🤖 Of course, AI
 ```
 
 ---
