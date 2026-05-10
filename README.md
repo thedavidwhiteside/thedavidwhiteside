@@ -26,3 +26,4 @@ I build things that scale, secure things that matter, and automate everything in
 [![Website](https://img.shields.io/badge/davidwhiteside.com-000000?style=flat-square&logo=About.me&logoColor=white)](https://davidwhiteside.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thedavidwhiteside)
 [![Email](https://img.shields.io/badge/contact@davidwhiteside.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@davidwhiteside.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/thedavidwhiteside)
