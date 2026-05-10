@@ -28,4 +28,4 @@ Cloud Engineer out of Colorado 🏔️ — I build things that scale, secure thi
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedavidwhiteside&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedavidwhiteside&show_icons=true&theme=dark&hide_border=true)
