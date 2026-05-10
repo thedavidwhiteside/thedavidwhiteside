@@ -2,7 +2,8 @@
 
 > *"Vision without execution is hallucination."* - Thomas Edison
 
-Cloud Engineer out of Colorado 🏔️ — I build things that scale, secure things that matter, and automate everything in between.
+Cloud Engineer out of Colorado 🏔️.
+I build things that scale, secure things that matter, and automate everything in between.
 
 ---
 
